@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655088261531",
+    "project_id": "project-rpl3bpnp",
+    "storage_bucket": "project-rpl3bpnp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655088261531:android:73614f972e783e49baa93e",
+        "android_client_info": {
+          "package_name": "com.udacoding.maps_flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInw14N4WDKpi368rz5KXL6LYwCP96mMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
